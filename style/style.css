@@ -210,3 +210,15 @@ section {
 .more-details:hover {
     color: #601cfc;
 }
+
+.contact .icon {
+    font-size: 4.5em;
+}
+
+.contact .info h3 {
+    color: black;
+}
+
+.contact .info p {
+    font-size: 1.5em;
+}
