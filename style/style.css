@@ -255,7 +255,12 @@ section {
 .more-details:hover {
     color: #601cfc;
 }
-
+.contact {
+    padding: 100px;
+}
+.contact .card {
+    min-width: 30em;
+}
 .contact .icon {
     font-size: 4.5em;
 }
